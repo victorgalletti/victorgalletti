@@ -6,8 +6,6 @@
 - 📚 Estudando e certificando na Alura
 - 🚀 Aberto a novas oportunidades de trabalho.
 
----
-
 ## 🛠️ Ferramentas e Tecnologias
 
 <div align="center">
@@ -19,8 +17,6 @@
 </div>
 
 
----
-
 ## 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
@@ -29,8 +25,6 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgalletti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
-
----
 
 ## 📫 Contatos
 
