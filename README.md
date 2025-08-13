@@ -20,7 +20,7 @@ Desenvolvedor Full-stack
 
 <div>
   <a href="https://github.com/victorgalletti">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgalletti&layout=compact&langs_count=7&theme=dracula"/>
+  
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorgalletti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
