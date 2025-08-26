@@ -3,7 +3,7 @@ Olá, sou o Victor Galletti 👋
 Desenvolvedor Full-stack
 
 - 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas.
-- 📚 Estudando e certificando na Alura
+- 📚 Estudando e certificando na Oracle e Alura
 - 🚀 Aberto a novas oportunidades de trabalho.
 
 🛠️ Ferramentas e Tecnologias
